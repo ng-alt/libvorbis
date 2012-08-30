@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: metrics and quantization code for residue VQ codebooks
- last mod: $Id$
+ last mod: $Id: residuedata.c 16037 2009-05-26 21:10:58Z xiphmont $
 
  ********************************************************************/
 

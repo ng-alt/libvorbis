@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: prototypes for extermal metrics specific to data type
- last mod: $Id$
+ last mod: $Id: vqext.h 13293 2007-07-24 00:09:47Z xiphmont $
 
  ********************************************************************/
 

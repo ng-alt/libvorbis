@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: residue backend 0 partitioner/classifier
- last mod: $Id$
+ last mod: $Id: residuesplit.c 16037 2009-05-26 21:10:58Z xiphmont $
 
  ********************************************************************/
 

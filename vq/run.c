@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: utility main for loading and operating on codebooks
- last mod: $Id$
+ last mod: $Id: run.c 16037 2009-05-26 21:10:58Z xiphmont $
 
  ********************************************************************/
 

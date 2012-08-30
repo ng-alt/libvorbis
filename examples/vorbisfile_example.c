@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: simple example decoder using vorbisfile
- last mod: $Id$
+ last mod: $Id: vorbisfile_example.c 16037 2009-05-26 21:10:58Z xiphmont $
 
  ********************************************************************/
 

@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: stdio-based convenience library for opening/seeking/decoding
- last mod: $Id$
+ last mod: $Id: vorbisfile.c 16246 2009-07-10 03:19:29Z xiphmont $
 
  ********************************************************************/
 
@@ -229,8 +229,8 @@ static ogg_int64_t _get_prev_page_serial(OggVorbis_File *vf,
 
   ogg_int64_t prefoffset=-1;
   ogg_int64_t offset=-1;
-  ogg_int64_t ret_serialno;
-  ogg_int64_t ret_gran;
+  ogg_int64_t ret_serialno=-1;
+  ogg_int64_t ret_gran=-1;
 
   while(offset==-1){
     begin-=CHUNKSIZE;

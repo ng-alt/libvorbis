@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: stdio-based convenience library for opening/seeking/decoding
- last mod: $Id$
+ last mod: $Id: vorbisfile.h 16243 2009-07-10 02:49:31Z xiphmont $
 
  ********************************************************************/
 

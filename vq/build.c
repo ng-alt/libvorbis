@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: utility main for building codebooks from training sets
- last mod: $Id$
+ last mod: $Id: build.c 16037 2009-05-26 21:10:58Z xiphmont $
 
  ********************************************************************/
 
